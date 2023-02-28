@@ -40568,19 +40568,8 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 80px;
 }
 
-.u-header .u-image-1 {
-  width: 134px;
-  height: 90px;
-  margin: 22px auto 0 0;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
-}
-
 .u-header .u-menu-1 {
-  margin: -32px 0 22px auto;
+  margin: 79px 0 22px auto;
 }
 
 .u-header .u-nav-1 {
@@ -40592,10 +40581,6 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 134px;
-  }
-
   .u-header .u-menu-1 {
     width: auto;
   }
