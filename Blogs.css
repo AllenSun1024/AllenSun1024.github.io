@@ -7,7 +7,7 @@
   font-weight: 700;
   text-transform: uppercase;
   font-size: 2.25rem;
-  margin: 48px auto 0;
+  margin: 48px auto 0 calc(((100% - 1140px) / 2) + 266px);
   padding: 0;
 }
 
@@ -17,7 +17,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   width: calc(((100% - 1140px) / 2) + 1140px);
-  margin: 102px auto 55px 0;
+  margin: 100px 0 57px auto;
 }
 
 .u-section-1 .u-image-1 {
@@ -167,16 +167,20 @@
     min-height: 863px;
   }
 
+  .u-section-1 .u-btn-1 {
+    margin-left: calc(((100% - 940px) / 2) + 66px);
+  }
+
   .u-section-1 .u-layout-wrap-1 {
     width: calc(((100% - 940px) / 2) + 940px);
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 515px;
+    min-height: 439px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 541px;
+    min-height: 578px;
   }
 
   .u-section-1 .u-list-1 {
@@ -195,19 +199,18 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 397px;
+    margin-left: calc(((100% - 1140px) / 2) + 266px);
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 720px) / 2) + 720px);
+    width: 720px;
+    margin-right: auto;
     margin-bottom: 58px;
-  }
-
-  .u-section-1 .u-image-1 {
-    min-height: 1035px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 1035px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -231,26 +234,22 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 926px;
+    margin-right: calc(((100% - 1140px) / 2) + 231px);
+    margin-left: auto;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 590px;
-    margin-top: -830px;
-    margin-left: auto;
-    margin-bottom: 60px;
+    width: calc(((100% - 1140px) / 2) + 840px);
+    margin: -830px 0 60px auto;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 822px;
+    min-height: 659px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 695px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -293,20 +292,18 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 911px;
+    margin-top: 48px;
+    margin-right: calc(((100% - 340px) / 2) + 31px);
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 340px;
-    margin-top: -845px;
+    width: calc(((100% - 340px) / 2) + 340px);
+    margin-top: 100px;
+    margin-bottom: 57px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 474px;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 1018px;
+    min-height: 415px;
   }
 
   .u-section-1 .u-list-1 {
